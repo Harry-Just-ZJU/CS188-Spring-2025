@@ -3,5 +3,5 @@
 - Course Webisite [here](https://inst.eecs.berkeley.edu/~cs188/sp25/)
 
 - Note: 
-[Website Version](https://inst.eecs.berkeley.edu/~cs188/textbook/)
-[PDF Version]()
+    - [Website Version](https://inst.eecs.berkeley.edu/~cs188/textbook/)
+    - [PDF Version](textbook_full.pdf)
